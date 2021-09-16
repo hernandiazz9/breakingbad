@@ -26,13 +26,16 @@ _Algunas de las tecnologías utlizadas_
 
 * [React js](https://reactjs.org/) - Libreria web de Javascript.
 * [NPM](https://www.npmjs.com/) - Manejador de dependencias
-* Breaking Bad "https://breaking-bad-quotes.herokuapp.com/v1/quotes - Api para obtener frases de Braking Bad
+* [Breaking Bad](https://breaking-bad-quotes.herokuapp.com/v1/quotes) - Api para obtener frases de Braking Bad
 * [Styled Component](https://emotion.sh/docs/styled) - Libreria para estilos en Javascript.
 
 
 ## Autores ✒️
 
 _Este proyecto lo realice mientras me capacitaba en la librería  **React js**_
+
+## Demo 🎬 
+* [Frases Breaking Bad](https://breakingbadhdd.netlify.app/)
 
 
 ## Expresiones de Gratitud 🎁
