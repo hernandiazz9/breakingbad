@@ -26,7 +26,7 @@ _Algunas de las tecnologías utlizadas_
 
 * [React js](https://reactjs.org/) - Libreria web de Javascript.
 * [NPM](https://www.npmjs.com/) - Manejador de dependencias
-* [BreakingBad]("https://breaking-bad-quotes.herokuapp.com) - Api para obtener recetas de bebidas
+* [Breaking Bad]("https://breaking-bad-quotes.herokuapp.com) - Api para obtener frases de Braking Bad
 * [Styled Component](https://emotion.sh/docs/styled) - Libreria para estilos en Javascript.
 
 
