@@ -1,14 +1,12 @@
 # Frases de Breaking Bad.
 
-_Aplicacion para buscar Frases la serie *Breaking bad* leyendo desde una api_
+_Aplicacion para buscar Frases la serie **Breaking bad** leyendo desde una api_
 
 ## Comenzando 🚀
 
 _Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
 
 ### Instalación 🔧
-
-_Una serie de ejemplos paso a paso que te dice lo que debes ejecutar para tener un entorno de desarrollo ejecutandose_
 
 _Clonar el repositorio e instalar dependencias._
 
@@ -18,6 +16,9 @@ git clone https://github.com/hernandiazz9/bebidasReact.git
 ```
 npm install
 ```
+```
+npm start  --> localhost:3000
+```
 
 ## Construido con 🛠️
 
@@ -25,12 +26,8 @@ _Algunas de las tecnologías utlizadas_
 
 * [React js](https://reactjs.org/) - Libreria web de Javascript.
 * [NPM](https://www.npmjs.com/) - Manejador de dependencias
-* [thecocktaildb](https://www.thecocktaildb.com/) - Api para obtener recetas de bebidas
-* [Bootstrap](https://getbootstrap.com/) - Framework css para estilos.
-
-## Mensiones 🖇️
-
-En este proyecto utilice **CONTEXT API** de React js.
+* [BreakingBad]("https://breaking-bad-quotes.herokuapp.com) - Api para obtener recetas de bebidas
+* [Styled Component](https://emotion.sh/docs/styled) - Libreria para estilos en Javascript.
 
 
 ## Autores ✒️
