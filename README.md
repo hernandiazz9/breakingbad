@@ -11,7 +11,7 @@ _Estas instrucciones te permitirán obtener una copia del proyecto en funcionami
 _Clonar el repositorio e instalar dependencias._
 
 ```
-git clone https://github.com/hernandiazz9/bebidasReact.git
+git clone https://github.com/hernandiazz9/breakingbad.git
 ```
 ```
 npm install
